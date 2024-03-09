@@ -14,9 +14,9 @@
    {"key": "低端影视","name": "猫丨低端","type": 3,"api": "./ddys_open.js"},
    {"key": "高光影视","name": "猫丨高光","type": 3,"api": "./ggys_open.js"},
     {"key": "天天","name": "猫丨天天","type": 3,"api": "./tiantian_open.js"},
-   
-   {"key": "玩偶哥哥","name": "猫丨玩偶","type": 3,"api": "./wogg_open.js","ext": "填入你的阿里token"},
-    {"key": "玩偶表哥","name": "猫丨表哥","type": 3,"api": "./wobg_open.js","ext": "填入你的阿里token"},
+
+   {"key": "玩偶哥哥","name": "猫丨玩偶","type": 3,"api": "./wogg_open.js","ext": "e61379d264bd49909a0e7f1659aa02a8"},
+    {"key": "玩偶表哥","name": "猫丨表哥","type": 3,"api": "./wobg_open.js","ext": "e61379d264bd49909a0e7f1659aa02a8"},
     
   {"key": "胖虎影视","name": "猫丨胖虎","type": 3,"api": "./panghu_open.js"},  
    {"key": "人人影视","name": "猫丨人人","type": 3,"api": "./rttks_open.js"},   
@@ -37,7 +37,7 @@
    {"key": "起飞影院","name": "猫丨起飞","type": 3,"api": "./qfys_open.js"}, 
    {"key": "wf","name": "猫丨WF","type": 3,"api": "./wf_open.js"},
    {"key": "wpian","name": "猫丨WPIAN","type": 3,"api": "./wpian_open.js"},    
-   
+
     {"key": "cntv-news","name": "聚视丨新闻","type": 3,"api": "./cntv_news.js"},  
     {"key": "cntv","name": "聚视丨综合","type": 3,"api": "./cntv_open.js"},  
     {"key": "live0","name": "采集丨爱听","type": 3,"api": "./caiji.js","ext": "https://catbox.n13.club/yy.php"},
@@ -69,13 +69,13 @@
    {"key": "哔哩直播","name": "猫丨哔哩直播","type": 3,"api": "./bililive_open.js","ext":{"cookie": "DedeUserID=690781341;DedeUserID__ckMd5=cabc96906269c5b6;SESSDATA=2245ba24%2C1684212125%2C466fd%2Ab2;bili_jct=de6fdb60c10f8a83910aa55d79407b4e;"}}, 
    {"key": "斗鱼直播","name": "猫丨斗鱼直播","type": 3,"api": "./douyu_open.js","ext":{"from": "official","custom": "Popkart,跑跑卡丁车,跑跑卡丁车：漂移#PPKDCSY,跑跑手游#PathofExile,流放之路#hjzgwx,火炬之光：无限#CrossGate,魔力宝贝#g_jyhx,劲乐幻想#xjcs,仙境传说#yqk,一起看"}}, 
    {"key": "虎牙直播","name": "猫丨虎牙直播","type": 3,"api": "./huya_open.js","ext":{"from": "official","custom": "2135,一起看#6245,放映厅#427,流放之路#6399,火炬之光：无限#2891,魔力宝贝#2620,跑跑卡丁车手游#162,跑跑卡丁车#7691,劲乐幻想#2675,仙境传说RO"	}},
-   
+
    {"key": "短视频","name": "猫丨短片","type": 3,"api": "./sharenice_open.js"},  
    {"key": "djwm ","name": "猫丨wm短剧 ","type": 3,"api": "./djwm_open.js"},
    {"key": "vsdj","name": "猫丨vs短剧 ","type": 3,"api": "./vsdj_open.js"},
    {"key": "酷我短剧","name": "猫丨酷我短剧","type": 3,"api": "./kuwo_open.js"}, 
    {"key": "种子短剧","name": "采集丨种子短剧","type": 3,"api": "./caiji.js","ext": {"url": "http://zzdj.cc/api.php/provide/vod"}},  
-   
+
     {"key": "kuu","name": "APP丨酷客","type": 3,"api": "./appysv2.js","ext": "https://www.kuin.one/api.php/app/"},  
     {"key": "kuin","name": "APP丨北极狐[V2]","type": 3,"api": "./appysv2.js","ext": "https://www.kuin.one/api.php/app/"},
     {"key": "jiageys","name": "APP丨飞鸽影视[V2]","type": 3,"api": "./appysv2.js","ext": "http://www.jiageys.top/api.php/app/"},
@@ -103,11 +103,11 @@
     {"key": "suoniapi_t1","name": "采集丨索尼","type": 3,"api": "./caiji.js","ext": {"url": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/","categories":["爽文短剧","足球","篮球","影视解说","国产剧","韩剧","欧美剧","日剧","港剧","台剧","泰剧","海外剧","纪录片","动画片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","预告片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","大陆综艺","日韩综艺","港台综艺","欧美综艺"]}},
     {"key": "qhm3u8_t1","name": "采集丨奇虎","type": 3,"api": "./caiji.js","ext": {"url": "https://caiji.qhzyapi.com/api.php/provide/vod/from/qhm3u8/","categories":["体育","国产剧","韩国剧","欧美剧","日本剧","香港剧","台湾剧","泰国剧","海外剧","纪录片","动画片","国产动漫","日本动漫","欧美动漫","欧美综艺","日韩综艺","大陆综艺","港台综艺","动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","剧情片"]}},
           
-    {"key": "阿里盘寻","name": "(仅搜索)丨盘寻","type": 3,"api": "./pansearch_open.js","ext": "填入你的阿里token"},
-    {"key": "阿里盘搜","name": "(仅搜索)丨盘搜","type": 3,"api": "./pansou_open.js","ext": "填入你的阿里token"},
-    {"key": "小纸条","name": "(仅搜索)丨纸条","type": 3,"api": "./xiaozhitiao_open.js","ext": "填入你的阿里token"},
-    {"key": "UP云搜","name": "(仅搜索)丨云搜","type": 3,"api": "./upyun_open.js","ext": "填入你的阿里token"},
-    {"key": "云盘4K","name": "(仅搜索)丨云盘","type": 3,"api": "./yunpan4k_open.js","ext": "填入你的阿里token"}
+    {"key": "阿里盘寻","name": "(仅搜索)丨盘寻","type": 3,"api": "./pansearch_open.js","ext": "e61379d264bd49909a0e7f1659aa02a8"},
+    {"key": "阿里盘搜","name": "(仅搜索)丨盘搜","type": 3,"api": "./pansou_open.js","ext": "e61379d264bd49909a0e7f1659aa02a8"},
+    {"key": "小纸条","name": "(仅搜索)丨纸条","type": 3,"api": "./xiaozhitiao_open.js","ext": "e61379d264bd49909a0e7f1659aa02a8"},
+    {"key": "UP云搜","name": "(仅搜索)丨云搜","type": 3,"api": "./upyun_open.js","ext": "e61379d264bd49909a0e7f1659aa02a8"},
+    {"key": "云盘4K","name": "(仅搜索)丨云盘","type": 3,"api": "./yunpan4k_open.js","ext": "e61379d264bd49909a0e7f1659aa02a8"}
   ]},
   "read": {
       "sites": [
